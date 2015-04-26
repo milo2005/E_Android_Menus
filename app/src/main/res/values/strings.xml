@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Menus</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Eliminar</string>
+    <string-array name="postres">
+        <item>Arroz con leche</item>
+        <item>Fresas con crema</item>
+        <item>Gelatina</item>
+        <item>Helado de paila</item>
+    </string-array>
+    <string name="title_activity_add_postre">Agregar Activity</string>
+    <string name="add_hint">Nombre del Postre</string>
+    <string name="add_btn">Agregar</string>
+    <string name="title_activity_edit_postre">EditPostreActivity</string>
+
+</resources>
